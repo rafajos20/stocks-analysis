@@ -27,8 +27,8 @@ and for the year 2017 past of 0.96 seg to 0.11 seg
 
 ## The Advantages:
 
-*Save time because it decreases execute run time in macro.
-*Save space in memory using the right variable types. 
+* Save time because it decreases execute run time in macro.
+* Save space in memory using the right variable types. 
 
  ## The Disadvantages:
 
