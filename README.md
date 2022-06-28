@@ -15,7 +15,7 @@ Then, I used the tickerIndex and the output arrays for define the conditions, st
 
 all this is reflected in the execution times of the original script compare the refactored script reduce considerably for the year 2018 past of 0.83 seg to 0.09 seg.
 
-/assets/resources/VBA_Challenge_2018_before.png  
+/stocks-analysis/resources/VBA_Challenge_2017.png  
 
 
 
