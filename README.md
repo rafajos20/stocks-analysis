@@ -6,22 +6,23 @@ The purpose of this analysis is to determine the return for the entire stock mar
 ## The Refactored Script:
 
 The first step refactoring the code was creating a ticker index and set to equal to zero.
- 
+![](sc/1.png)   
 Following for create the three output arrays tickerVolumes as long and tickerStartingPrices and tickerEndingPrices as Single. we have 12 different variables for ticket in the data so between the parenthesis the number 12 for refer it. 			
- 
+![](sc/2.png)  
 
 Then, I used the tickerIndex and the output arrays for define the conditions, starting with an “IF” to validate that the ticker is the same as the one referenced in the index. The last part to refactoring is use the same expressions and conditions we used in the module but use the ticker index and the arrays into to the expressions.
- 
+![](sc/3.png) 
 
 all this is reflected in the execution times of the original script compare the refactored script reduce considerably for the year 2018 past of 0.83 seg to 0.09 seg.
 
+![](resources/VBA_Challenge_2018_before.png)  
 ![](resources/VBA_Challenge_2018.png)  
 
 
-
 and for the year 2017 past of 0.96 seg to 0.11 seg
-  
 
+![](resources/VBA_Challenge_2017_before.png)  
+![](resources/VBA_Challenge_2017.png)   
 
 
 ## The Advantages:
